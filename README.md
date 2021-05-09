@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiaweicheung, an economic master student. Going to Berlin in Oct. 2021
+- 👋 Hi, I’m @jiaweicheung, an economic master student. Going to Berlin for PhD in Oct. 2021
 - 👀 I’m interested in economics and travelling, learning different languages
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on micro theory research
