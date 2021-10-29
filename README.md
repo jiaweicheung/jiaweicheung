@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jiaweicheung, an economic master student. Going to Berlin for PhD in Oct. 2021
+- 👋 Hi, I’m @jiaweicheung, an economic PhD student at Berlin.
 - 👀 I’m interested in economics and travelling, learning different languages
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on micro theory research
-- 📫 How to reach me: jiawei.zhang@uni-bonn.de
+- 📫 How to reach me: jiawei.zhang@student.hu-berlin.de
 
 This is a place for some small projects that interest me (at the moment).
 
