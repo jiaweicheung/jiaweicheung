@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiaweicheung, an economic PhD student at Berlin.
+- 👋 Hi, I’m Jiawei Zhang, an economic PhD student at Berlin.
 - 👀 I’m interested in economics and travelling, learning different languages
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on micro theory research
