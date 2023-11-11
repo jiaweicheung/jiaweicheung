@@ -2,7 +2,7 @@
 - 👀 I’m interested in economics and travelling, learning different languages
 - 🌱 I’m currently learning German
 - 💞️ I’m looking to collaborate on micro theory research
-- 📫 How to reach me: jiawei.zhang@student.hu-berlin.de
+- 📫 How to reach me: jiawei.zhang@hu-berlin.de
 
 This is a place for some small projects that interest me (at the moment).
 
